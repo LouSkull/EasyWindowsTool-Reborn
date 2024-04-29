@@ -1,0 +1,8 @@
+customtkinter
+tkinter
+shutil
+ctypes
+winreg
+psutil
+platform
+subprocess
